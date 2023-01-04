@@ -1,1 +1,2 @@
 # metasploit
+//kal karu ga
